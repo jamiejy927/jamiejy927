@@ -11,7 +11,7 @@ Currently leveling up my dev skills 🐢
 - 🏢 Previously worked at a Seoul-based digital agency, contributing to web and app projects
 
 
-## Tech Stack
+## ⌨️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,react,js,ts,html,css)](https://skillicons.dev)
 
 
